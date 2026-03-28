@@ -1,15 +1,21 @@
 {
-  "name": "naukri_automation",
+  "name": "naukri-automation",
   "version": "1.0.0",
-  "description": "",
+  "description": "Playwright automation for Naukri job applications with configurable answers and locator healing.",
   "main": "index.js",
   "directories": {
     "test": "tests"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "apply": "tsx tests/naukri-apply.spec.ts",
+    "run": "tsx tests/naukri-apply.spec.ts"
   },
-  "keywords": [],
+  "keywords": [
+    "playwright",
+    "typescript",
+    "naukri",
+    "automation"
+  ],
   "author": "",
   "license": "ISC",
   "devDependencies": {
