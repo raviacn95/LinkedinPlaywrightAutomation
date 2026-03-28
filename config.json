@@ -1,0 +1,25 @@
+{
+  "totalLoops": 20,
+  "jobsPerLoop": 5,
+  "targetUrl": "https://www.naukri.com/mnjuser/recommendedjobs",
+  "loginTimeoutMs": 180000,
+  "headless": false,
+  "defaultAnswers": {
+    "experience": "5",
+    "years": "5",
+    "salary": "800000",
+    "ctc": "800000",
+    "notice": "15 Days or less",
+    "notice period": "15 Days or less",
+    "location": "Bengaluru",
+    "city": "Bengaluru",
+    "relocate": "Yes",
+    "available": "Yes",
+    "willing": "Yes",
+    "current": "700000",
+    "expected": "900000",
+    "shift": "Yes",
+    "work from": "Yes",
+    "remote": "Yes"
+  }
+}

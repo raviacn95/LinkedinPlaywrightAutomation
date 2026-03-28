@@ -1,0 +1,17 @@
+node_modules/
+logs/
+
+# Local browser/session state
+naukri-session.json
+
+# Debug artifacts
+debug-*.png
+
+# Playwright outputs
+test-results/
+playwright-report/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.vscode/
